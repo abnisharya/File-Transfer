@@ -1,0 +1,12 @@
+weather
+time
+Dispatch
+Product
+Product3
+Sector
+Segment
+Segment2
+'Detail Sheet$'
+'New Order Booking$'
+'SPD POP$'
+gravity
