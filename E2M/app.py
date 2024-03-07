@@ -6,14 +6,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-SERVER_NAME = '172.20.20.251'
-USERNAME = 'sa'  
-PASSWORD = 'Ccrd$1234' 
-# SERVER_NAME=r'ABNISH\SQLEXPRESS'
-
-# USERNAME='radhe'
-# PASSWORD='abnish@arya8955'
-
+#Write Your own details#
 
 connection_string = f"""
     DRIVER={{SQL Server}};
